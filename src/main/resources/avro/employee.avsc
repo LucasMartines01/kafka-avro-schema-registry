@@ -22,7 +22,8 @@
     },
     {
       "name": "birthDate",
-      "type": "string"
+      "type": "string",
+      "default": ""
     },
     {
       "name": "age",
